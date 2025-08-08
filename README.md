@@ -43,10 +43,7 @@
 
 ---
 
-### 📂 Featured Projects
-
-- 💡 [**Project Name**](GitHub-Link): Short description of what it does
-- 💡 [**Web3 DApp**](GitHub-Link): A DApp built with Solidity + Hardhat + React
+ 
 
 ---
 
