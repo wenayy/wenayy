@@ -24,12 +24,37 @@
 
 ---
 
-### 📈 GitHub Stats
+## 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wenayy&show_icons=true&theme=github_dark" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=wenayy&theme=dark" />
-</p>
+<div align="center">
+
+<!-- Stats -->
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wenayy&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- Streak -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=wenayy&theme=dark)](https://git.io/streak-stats)
+
+
+
+
+
+<!-- Top Languages -->
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wenayy&theme=radical&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+
+ 
+
+Step 3: Commit your changes
+After pasting the desired code, click Commit changes to save your updated README. The stats will then appear on your GitHub profile. 
+AI responses may include mistakes. Learn more
+
+
+
+
+
+
 
 
 ---
