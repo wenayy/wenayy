@@ -46,9 +46,7 @@
 
  
 
-Step 3: Commit your changes
-After pasting the desired code, click Commit changes to save your updated README. The stats will then appear on your GitHub profile. 
-AI responses may include mistakes. Learn more
+ 
 
 
 
