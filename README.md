@@ -10,7 +10,7 @@
 - 💻 I have experience in **Web2 (Frontend + Backend)** — HTML, CSS, JS, React, Node.js, Express, MongoDB, etc.
 - 📚 Practicing **Data Structures and Algorithms** regularly
 - 👨‍💻 Hacktoberfest contributor with a verified badge 🏅
-- 📫 How to reach me: [vinayjjoshi.310@gmail.com] | [LinkedIn/Twitter/Portfolio]
+- 📫 How to reach me: [vinayjjoshi.310@gmail.com]  
 
 ---
 
