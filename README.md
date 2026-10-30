@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Vinay Joshi</h1>
 <h3 align="center">Web2 & Web3 Developer | Open Source Contributor | DSA Enthusiast</h3>
 
