@@ -2,7 +2,7 @@
 <h3 align="center">I build AI tools, backends and products that people actually use.</h3>
 
 <p align="center">
-  Chemical Engineering @ MNNIT Allahabad '27 &nbsp;·&nbsp; ex-SWE Intern @ Suby &nbsp;·&nbsp; Hacktoberfest contributor
+   Engineering @ MNNIT Allahabad '27 &nbsp;·&nbsp; ex-SWE Intern @ Suby &nbsp;·&nbsp; Open Source contributor
 </p>
 
 <p align="center">
