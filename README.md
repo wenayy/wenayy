@@ -29,21 +29,23 @@ real-time systems, media pipelines, deployment, and the performance and failure 
 |---|---|---|
 | **[CacheTray](https://cachetray.gitflex.lol/)** | Chrome extension that captures text, links, images and code into workspaces and sends them to ChatGPT, Claude and Gemini in one click | #44 Product of the Day on Product Hunt · Google Featured badge · Top 200 in Workflow & Planning · users in 20+ countries |
 | **[KlipCut](https://klipcut.gitflex.lol/)** | AI pipeline that turns long videos and YouTube links into captioned short clips | 3M+ views on generated clips · six clips in under 5 min · Postgres job queue, Docker workers on AWS, Polar billing |
-| **[Nova](https://github.com/wenayy/nova-invoice-audit)** | AI agents that audit freight invoices against contracts and email, with quoted evidence for every finding | 99.6/100 · $0 wrongly disputed · 26/26 custom evals · prompt-injection safe · runs on Claude and DeepSeek |
+| **Total Damage** | Chrome extension that adds up every Zomato, Swiggy, Instamart, Blinkit and Zepto order you've ever placed into one receipt and a shareable card | WXT + React extension, Next.js landing page, shared core and design system in a monorepo |
 | **[mynotch](https://github.com/wenayy/mynotch)** | Turns the MacBook notch into a command center: live Claude Code & Codex limits, clipboard, shelf, file converter, notes | Native Swift app |
 | **[MyToolbox](https://github.com/wenayy/MyToolbox)** | 81 everyday tools in one native Mac app: video, audio, images, PDF editor, OCR, transcription | Private, on-device, open source |
+| **[OpenThock](https://github.com/wenayy/OpenThock)** | Mechanical keyboard sounds for every keystroke on your Mac, with separate press and release sounds per key | Native Swift app · 12 recorded switch sets · record your own keyboard · free DMG download |
+| **[Hotstar Rewind](https://github.com/wenayy/hotstar-rewind)** | Browser extension that lets you rewind and fast-forward Hotstar livestreams | Built for watching live matches |
 | **[Reimburser](https://reimburser.in/)** | Creators share daily expenses and get supported peer-to-peer via UPI, PayPal and gift cards | Zero platform fees · OAuth + JWT · anti-abuse with trust tiers |
 
 <details>
 <summary><b>More things I've built</b></summary>
 <br>
 
+- **[Nova](https://github.com/wenayy/nova-invoice-audit)**: AI agents that audit freight invoices against contracts and email; 99.6/100 with $0 wrongly disputed.
 - **[creditlens](https://github.com/wenayy/creditlens)**: credit-risk pipeline on 17.3M rows; SQL features, XGBoost (0.779 AUC), FastAPI scoring, drift monitoring.
 - **[doccheck](https://github.com/wenayy/doccheck)**: AI loan-document checker that extracts KYC and income fields and flags mismatches; runs on Anthropic, OpenAI or DeepSeek.
 - **[yc-outreach](https://github.com/wenayy/yc-outreach)**: pick a YC batch, find founders, write personalised cold emails from one template.
 - **[sip-watch](https://github.com/wenayy/sip-watch)**: free SIP NAV drop alerts and a weekly email report on Cloudflare Workers.
 - **[clip-pipeline-skill](https://github.com/wenayy/clip-pipeline-skill)**: a Claude skill with the full method for building an AI video clipper.
-- **[OpenThock](https://github.com/wenayy/OpenThock)**: open-source mechanical keyboard sounds for macOS.
 - **[ai-vinay](https://github.com/wenayy/ai-vinay)**: casual Hinglish AI voice proxy with browser calls, memory and follow-ups.
 
 </details>
