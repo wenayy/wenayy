@@ -28,13 +28,14 @@ real-time systems, media pipelines, deployment, and the performance and failure 
 | Project | What it is | Highlights |
 |---|---|---|
 | **[CacheTray](https://cachetray.gitflex.lol/)** | Chrome extension that captures text, links, images and code into workspaces and sends them to ChatGPT, Claude and Gemini in one click | #44 Product of the Day on Product Hunt · Google Featured badge · Top 200 in Workflow & Planning · users in 20+ countries |
+| **[Reimburser](https://reimburser.in/)** | Creators share daily expenses and get supported peer-to-peer via UPI, PayPal and gift cards | Zero platform fees · OAuth + JWT · anti-abuse with trust tiers |
 | **[KlipCut](https://klipcut.gitflex.lol/)** | AI pipeline that turns long videos and YouTube links into captioned short clips | 3M+ views on generated clips · six clips in under 5 min · Postgres job queue, Docker workers on AWS, Polar billing |
 | **[Total Damage](https://totaldamage.food/)** | Chrome extension that adds up every Zomato, Swiggy, Instamart, Blinkit and Zepto order you've ever placed into one receipt and a shareable card | WXT + React extension, Next.js landing page, shared core and design system in a monorepo |
 | **[mynotch](https://github.com/wenayy/mynotch)** | Turns the MacBook notch into a command center: live Claude Code & Codex limits, clipboard, shelf, file converter, notes | Native Swift app |
 | **[MyToolbox](https://github.com/wenayy/MyToolbox)** | 81 everyday tools in one native Mac app: video, audio, images, PDF editor, OCR, transcription | Private, on-device, open source |
 | **[OpenThock](https://github.com/wenayy/OpenThock)** | Mechanical keyboard sounds for every keystroke on your Mac, with separate press and release sounds per key | Native Swift app · 12 recorded switch sets · record your own keyboard · free DMG download |
 | **[Hotstar Rewind](https://github.com/wenayy/hotstar-rewind)** | Browser extension that lets you rewind and fast-forward Hotstar livestreams | Built for watching live matches |
-| **[Reimburser](https://reimburser.in/)** | Creators share daily expenses and get supported peer-to-peer via UPI, PayPal and gift cards | Zero platform fees · OAuth + JWT · anti-abuse with trust tiers |
+
 
 <details>
 <summary><b>More things I've built</b></summary>
